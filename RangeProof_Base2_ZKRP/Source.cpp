@@ -6,7 +6,7 @@
 //
 //	 "Guaranteed Correct Sharing of Integer Factorization with Off-Line Shareholders"
 //
-// This implementation was written by Esra Gunsay [mail at esragnsay at gmail dot com] in 2021. This 
+// This implementation was written by *** *** [mail at *** at *** dot com] in 2021. This 
 // Range proof algorithm is a base-3 application of original base-2 construction, introduced by Wenbo 
 // Mao at PKC '98. 
 //
